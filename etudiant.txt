@@ -1,0 +1,2 @@
+1;aaaa;aaaa;1;1;1986;masculin;MPI;1;Math;4;0.0;0.0;-1.0;Info;4;0.0;0.0;0.0;Electronique;4;0.0;0.0;0.0;Francais;1;0.0;0.0;-1.0;Anglais;1;0.0;0.0;-1.0;
+3;cccc;cccc;3;3;1986;masculin;GL;2;POO;3;0.0;0.0;0.0;CSI;2;0.0;0.0;0.0;GP;3;0.0;0.0;-1.0;Francais;1;0.0;0.0;-1.0;Anglais;1;0.0;0.0;-1.0;
